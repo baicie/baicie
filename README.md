@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baicie&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baicie&show_icons=true&theme=gruvbox) 
+<div align="center">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=baicie&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baicie&layout=compact&langs_count=8&theme=vue"/>
+</p>
