@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🐰 Is a rookie js developer
-- 🔭 Currently learning rust and java and vue3
+- 🔭 Currently learning vue3
 - 🤪 Like listening to music and watching movies
 
 <div align="center">
